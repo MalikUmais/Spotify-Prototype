@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <!-- Green circular background -->
+  <circle cx="8" cy="8" r="8" fill="#1ed760" />
+  
+  <!-- Original SVG inside, scaled to fit within the circle -->
+  <svg x="2" y="2" width="12" height="12" viewBox="0 0 24 24">
+    <path d="m7.05 3.606 13.49 7.788a.7.7 0 0 1 0 1.212L7.05 20.394A.7.7 0 0 1 6 19.788V4.212a.7.7 0 0 1 1.05-.606z" fill="black"></path>
+  </svg>
+</svg>
