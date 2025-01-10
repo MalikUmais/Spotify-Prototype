@@ -1,7 +1,7 @@
 let currentSong = new Audio();
 let songs;
 let currFolder;
-let baseURL="http://127.0.0.1:3002";
+let baseURL="https://malikumais.github.io/Spotify-Prototype-Frontend-UI-";
 function convertSecondsToMinutes(seconds) {
     // If input is in milliseconds, convert to seconds
     const second = Math.floor(seconds); // Assumes input is in seconds, not milliseconds
